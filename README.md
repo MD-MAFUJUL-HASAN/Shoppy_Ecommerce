@@ -2,7 +2,7 @@
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 #  Build and Deploy a React Admin Dashboard
-## [Demo Live  🎯](https://dashboard-shoppy.netlify.app/)
+## [Demo Live  🎯](https://shoppy-ecommerce.vercel.app/)
 
 
 ## Features
@@ -111,7 +111,7 @@ Project Structure
 └─ tailwind.config.js
 ```
 #### Author 
-[GITHUB](https://github.com/kamrulcoder)
+[GITHUB](https://github.com/MD-MAFUJUL-HASAN)
 
 
 
