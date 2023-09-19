@@ -2,7 +2,7 @@
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 #  Build and Deploy a React Admin Dashboard
-## [Demo Live  🎯](https://shoppy-ecommerce.vercel.app/)
+## [Demo Live  🎯](https://ecommerce-shoppy.vercel.app/)
 
 
 ## Features
